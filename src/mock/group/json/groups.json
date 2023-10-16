@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1",
+        "name": "abc 1",
+        "status": "active"
+    },
+    {
+        "id": "2",
+        "name": "ddd 2",
+        "status": "inactive"
+    },
+    {
+        "id": "3",
+        "name": "qwe 1",
+        "status": "active"
+    },
+    {
+        "id": "4",
+        "name": "Group 2",
+        "status": "inactive"
+    },
+    {
+        "id": "5",
+        "name": "Group 1",
+        "status": "active"
+    },
+    {
+        "id": "6",
+        "name": "Group 6",
+        "status": "inactive"
+    },
+    {
+        "id": "7",
+        "name": "Group 7",
+        "status": "active"
+    },
+    {
+        "id": "8",
+        "name": "Group 8",
+        "status": "inactive"
+    },
+    {
+        "id": "9",
+        "name": "Group 9",
+        "status": "active"
+    },
+    {
+        "id": "10",
+        "name": "Group 10",
+        "status": "inactive"
+    },
+    {
+        "id": "11",
+        "name": "Group 11",
+        "status": "active"
+    },
+    {
+        "id": "12",
+        "name": "Group 12",
+        "status": "inactive"
+    }
+]

@@ -1,0 +1,12 @@
+{
+    "user": {
+        "id": 0,
+        "first_name": "string",
+        "middle_name": "string",
+        "last_name": "string",
+        "email": "string",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjM1LCJpYXQiOjE2OTIxODAyMDgsImV4cCI6MTY5MjE4MzgwOH0.EQlvbVxNUGSCHF4puGtf4Y4kjrq5J_rLVvqBvaMNbBA",
+        "accountTypes": {},
+        "companies": {}
+    }
+}

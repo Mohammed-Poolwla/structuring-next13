@@ -1,0 +1,188 @@
+:where(.css-dev-only-do-not-override-vj0ngj).ant-layout {
+    background-color: #f6fbf8;
+}
+.text-left {
+    text-align: left;
+}
+.text-center {
+    text-align: center;
+}
+.text-right {
+    text-align: right;
+}
+.page-loading {
+    background-color: #fff;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2rem;
+}
+.w-1 {
+    width: 1% !important;
+}
+.nowrap {
+    white-space: nowrap !important;
+}
+.before-login-main-content {
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    background: #fff;
+}
+.after-login-main-content {
+    padding: 24px;
+    min-height: calc(100vh - 112px);
+}
+/* START: Page header CSS */
+.page-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+/* END: Page header CSS */
+
+/* START: Sidebar menu CSS */
+.sidebar-menu .ant-menu-item {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    border-radius: 0;
+}
+.sidebar-menu:where(.css-dev-only-do-not-override-15tp0wl).ant-menu-light .ant-menu-item-selected,
+.sidebar-menu:where(.css-dev-only-do-not-override-15tp0wl).ant-menu-light
+    > .ant-menu
+    .ant-menu-item-selected {
+    background-color: #0e8744;
+    color: #ffffff;
+    border-radius: 0 1rem 4rem 0;
+}
+:where(.css-dev-only-do-not-override-15tp0wl).ant-menu-inline-collapsed
+    > .ant-menu-item
+    .ant-menu-item-icon
+    + span,
+:where(.css-dev-only-do-not-override-15tp0wl).ant-menu-inline-collapsed
+    > .ant-menu-item-group
+    > .ant-menu-item-group-list
+    > .ant-menu-item
+    .ant-menu-item-icon
+    + span,
+:where(.css-dev-only-do-not-override-15tp0wl).ant-menu-inline-collapsed
+    > .ant-menu-item-group
+    > .ant-menu-item-group-list
+    > .ant-menu-submenu
+    > .ant-menu-submenu-title
+    .ant-menu-item-icon
+    + span,
+:where(.css-dev-only-do-not-override-15tp0wl).ant-menu-inline-collapsed
+    > .ant-menu-submenu
+    > .ant-menu-submenu-title
+    .ant-menu-item-icon
+    + span,
+:where(.css-dev-only-do-not-override-15tp0wl).ant-menu-inline-collapsed
+    > .ant-menu-item
+    .anticon
+    + span,
+:where(.css-dev-only-do-not-override-15tp0wl).ant-menu-inline-collapsed
+    > .ant-menu-item-group
+    > .ant-menu-item-group-list
+    > .ant-menu-item
+    .anticon
+    + span,
+:where(.css-dev-only-do-not-override-15tp0wl).ant-menu-inline-collapsed
+    > .ant-menu-item-group
+    > .ant-menu-item-group-list
+    > .ant-menu-submenu
+    > .ant-menu-submenu-title
+    .anticon
+    + span,
+:where(.css-dev-only-do-not-override-15tp0wl).ant-menu-inline-collapsed
+    > .ant-menu-submenu
+    > .ant-menu-submenu-title
+    .anticon
+    + span {
+    display: none;
+}
+:where(.css-dev-only-do-not-override-15tp0wl).ant-menu-inline-collapsed > .ant-menu-item,
+:where(.css-dev-only-do-not-override-15tp0wl).ant-menu-inline-collapsed
+    > .ant-menu-item-group
+    > .ant-menu-item-group-list
+    > .ant-menu-item,
+:where(.css-dev-only-do-not-override-15tp0wl).ant-menu-inline-collapsed
+    > .ant-menu-item-group
+    > .ant-menu-item-group-list
+    > .ant-menu-submenu
+    > .ant-menu-submenu-title,
+:where(.css-dev-only-do-not-override-15tp0wl).ant-menu-inline-collapsed
+    > .ant-menu-submenu
+    > .ant-menu-submenu-title {
+    text-align: center;
+}
+/* END: Sidebar menu CSS */
+
+/* START: Login page CSS */
+.auth-page {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+.login-box {
+    width: 100%;
+    max-width: 500px;
+}
+.login-box-header {
+    text-align: center;
+}
+.auth-page h1 {
+    margin-bottom: 1.2rem;
+}
+.login-box-content {
+    padding: 23px 30px 30px 30px;
+    border-radius: 4px;
+    box-shadow: 0 0 10px 2px rgba(0, 0, 0, 0.15);
+    margin-top: 20px;
+}
+.login-box-content a {
+    color: #0e8744;
+}
+.login-box-content a:hover {
+    text-decoration: underline;
+}
+.login-form-button {
+    width: 100%;
+}
+.login-box-footer {
+    text-align: right;
+}
+/* END: Login page CSS */
+
+.site-header {
+    padding: 0;
+    background-color: #fff;
+    display: flex;
+    justify-content: space-between;
+    padding-right: 20px;
+}
+.demo-logo-vertical {
+    padding: 10px;
+}
+.demo-logo-vertical .logo-small {
+    display: none;
+    border-radius: 8px;
+}
+.demo-logo-vertical .logo-large {
+    border-radius: 8px;
+}
+.ant-layout-sider-collapsed .demo-logo-vertical {
+    text-align: center;
+}
+.ant-layout-sider-collapsed .demo-logo-vertical .logo-small {
+    display: inline-block;
+    height: 32px;
+    width: auto;
+}
+.ant-layout-sider-collapsed .demo-logo-vertical .logo-large {
+    display: none;
+}

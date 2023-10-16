@@ -1,0 +1,10 @@
+{
+    "userData": {
+        "id": 0,
+        "first_name": "string",
+        "middle_name": "string",
+        "last_name": "string",
+        "email": "string",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjI1LCJpYXQiOjE2OTIyOTY4MzAsImV4cCI6MTY5MjMwMDQzMH0.DWd_lPNEyK8VdiBhE3E5SjDW-Cm67_pgib1G7OcPT1o"
+    }
+}
