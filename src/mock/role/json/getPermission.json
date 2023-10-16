@@ -1,0 +1,30 @@
+[
+    {
+        "id": 35,
+        "role_id": 2,
+        "feature_id": 1,
+        "name": "Create Launch",
+        "slug": "CREATE_LAUNCH"
+    },
+    {
+        "id": 36,
+        "role_id": 2,
+        "feature_id": 3,
+        "name": "Marketing Channel Form",
+        "slug": "MARKETING_CHANNEL_FORM"
+    },
+    {
+        "id": 37,
+        "role_id": 2,
+        "feature_id": 4,
+        "name": "Create Leads Manually",
+        "slug": "CREATE_LEADS_MANUALLY"
+    },
+    {
+        "id": 38,
+        "role_id": 2,
+        "feature_id": 13,
+        "name": "Update Employee",
+        "slug": "UPDATE_EMPLOYEE"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    { "name": "Africa", "slug": 4, "status": "active" },
+    { "name": "South America", "slug": 5, "status": "active" },
+    { "name": "Australia", "slug": 6, "status": "active" },
+    { "name": "Antarctica", "slug": 7, "status": "active" },
+    { "name": "Middle East", "slug": 8, "status": "active" },
+    { "name": "Central America", "slug": 9, "status": "active" },
+    { "name": "Caribbean", "slug": 10, "status": "active" },
+    { "name": "Southeast Asia", "slug": 11, "status": "active" }
+]

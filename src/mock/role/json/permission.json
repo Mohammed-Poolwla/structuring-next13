@@ -1,0 +1,30 @@
+[
+    {
+        "id": 25,
+        "role_id": 2,
+        "feature_id": 2,
+        "name": "Create Team",
+        "slug": "CREATE_TEAM"
+    },
+    {
+        "id": 26,
+        "role_id": 2,
+        "feature_id": 11,
+        "name": "Update Booking Form",
+        "slug": "UPDATE_BOOKING_FORM"
+    },
+    {
+        "id": 27,
+        "role_id": 2,
+        "feature_id": 13,
+        "name": "Update Employee",
+        "slug": "UPDATE_EMPLOYEE"
+    },
+    {
+        "id": 28,
+        "role_id": 2,
+        "feature_id": 5,
+        "name": "Edit Leads",
+        "slug": "EDIT_LEADS"
+    }
+]

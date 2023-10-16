@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "name": "Create Launch",
+        "slug": "CREATE_LAUNCH"
+    },
+    {
+        "id": 2,
+        "name": "Create Team",
+        "slug": "CREATE_TEAM"
+    },
+    {
+        "id": 3,
+        "name": "Marketing Channel Form",
+        "slug": "MARKETING_CHANNEL_FORM"
+    },
+    {
+        "id": 4,
+        "name": "Create Leads Manually",
+        "slug": "CREATE_LEADS_MANUALLY"
+    },
+    {
+        "id": 5,
+        "name": "Edit Leads",
+        "slug": "EDIT_LEADS"
+    },
+    {
+        "id": 6,
+        "name": "Update Leads",
+        "slug": "UPDATE_LEADS"
+    },
+    {
+        "id": 7,
+        "name": "Update Stage",
+        "slug": "UPDATE_STAGE"
+    },
+    {
+        "id": 8,
+        "name": "Update Status",
+        "slug": "UPDATE_STATUS"
+    },
+    {
+        "id": 9,
+        "name": "Update Token Form",
+        "slug": "UPDATE_TOKEN_FORM"
+    },
+    {
+        "id": 10,
+        "name": "Request Lead",
+        "slug": "REQUEST_LEAD"
+    },
+    {
+        "id": 11,
+        "name": "Update Booking Form",
+        "slug": "UPDATE_BOOKING_FORM"
+    },
+    {
+        "id": 12,
+        "name": "Create Employee",
+        "slug": "CREATE_EMPLOYEE"
+    },
+    {
+        "id": 13,
+        "name": "Update Employee",
+        "slug": "UPDATE_EMPLOYEE"
+    }
+]
